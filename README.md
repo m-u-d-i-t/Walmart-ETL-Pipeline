@@ -1,7 +1,7 @@
 # Walmart ETL Pipeline
 
 ## Architectural Diagram of Walmart ETL pipeline
-![](https://github.com/vebg25/Walmart-ETL-Pipeline/blob/main/Walmart%20ETL%20pipeline.png)
+![](https://github.com/m-u-d-i-t/Walmart-ETL-Pipeline/blob/main/Walmart%20ETL%20pipeline.png)
 
 ## Key Points explaining the architecture of the ETL pipeline
 
